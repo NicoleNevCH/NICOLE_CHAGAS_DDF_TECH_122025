@@ -2,6 +2,13 @@
 **Candidato:** Nicole Chagas  
 **Data:** 12/2025
 
+# Case Técnico: Plataforma de Dados E-commerce - DDF TECH
+**Candidata:** Nicole Chagas  
+**Link do Vídeo:** [https://youtu.be/vQuTqVOI6oA](https://youtu.be/vQuTqVOI6oA)
+
+## 🎯 Objetivo
+Este repositório contém a solução completa para o desafio técnico da Dadosfera, focado em agilidade, baixo custo e aplicação de GenAI na análise de desempenho de profissionais.
+
 ## 📋 Sobre o Projeto
 Este projeto simula a construção de uma Plataforma de Dados moderna (Modern Data Stack) utilizando a **Dadosfera** como conceito central. O objetivo é integrar, processar e visualizar dados de vendas para análise de desempenho de profissionais.
 
@@ -17,5 +24,4 @@ Este projeto simula a construção de uma Plataforma de Dados moderna (Modern Da
    ```bash
    pip install -r app/requirements.txt
 
-   ### Visualização dos Ativos
 
