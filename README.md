@@ -16,3 +16,6 @@ Este projeto simula a construção de uma Plataforma de Dados moderna (Modern Da
 1. **Instale as dependências:**
    ```bash
    pip install -r app/requirements.txt
+
+   ### Visualização dos Ativos
+
