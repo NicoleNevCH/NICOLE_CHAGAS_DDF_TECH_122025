@@ -1,0 +1,51 @@
+professional_id,name,email,role,hire_date,region
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Joaquim Câmara,gustavorocha@pastor.com,Gerente de Contas,2021-04-01,AP
+9a1de644-815e-46d1-bb8f-aa1837f8a88b,Gael Henrique Silva,ccamara@abreu.com,Vendedor Júnior,2024-08-04,MT
+f50bea63-371e-4d7b-a7cd-813047229389,Sr. Caleb Garcia,fogacacatarina@aparecida.br,Vendedor Sênior,2025-07-23,AM
+142c3fe8-60e7-4113-ac1b-8ca1f91e1d4c,Laís Pires,matheus10@vargas.net,Vendedor Sênior,2021-11-08,MG
+d58842de-a2bc-472f-b412-b29347294739,Sr. Léo Fogaça,vitorsampaio@pereira.com,Vendedor Júnior,2025-07-16,SC
+6123fdf7-7656-4f72-a9d4-beef3eabedcb,Henry Rodrigues,daniel30@guerra.org,Vendedor Sênior,2021-07-23,DF
+e059a0ee-9132-463e-b162-87e4e9c349e0,Sra. Hadassa Rezende,pgoncalves@casa.org,Vendedor Pleno,2022-03-08,ES
+434308bc-89fa-4a68-8fb5-d27bbeb79919,Dra. Mariane Pacheco,ofonseca@moraes.com,Vendedor Sênior,2021-12-05,BA
+ae340454-cac5-468c-a8f4-9481a0a04dc4,Ana Luiza Gomes,dpeixoto@novaes.com,Gerente de Contas,2021-12-20,RO
+444ea7c8-c039-4710-8976-e334e2817efd,Manuela Camargo,luara27@silveira.org,Vendedor Júnior,2025-04-03,SP
+1b3dbd5c-e9a1-4a6f-81f7-6d1c2dbc2134,Letícia Porto,leandrofreitas@nogueira.com,Vendedor Pleno,2023-10-03,PR
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,Isaque Araújo,emanuelbarros@azevedo.com,Vendedor Júnior,2022-02-01,RO
+2a45c2ab-8cbf-4db0-b264-accc79ac1b1e,Vinícius Pereira,icunha@silva.br,Vendedor Sênior,2024-09-21,PE
+3985c3cf-3f76-4e1d-9efa-21977394988f,Lucca Almeida,pedro-lucasabreu@santos.com,Vendedor Sênior,2022-12-11,AP
+5496f63c-dc11-40c1-880a-adfbe7c99b26,Théo da Costa,maria-vitoria38@silveira.br,Vendedor Sênior,2023-01-23,SE
+30beb45f-6835-44f2-8eb8-1f9d7914c120,Calebe Ribeiro,bfogaca@martins.com,Vendedor Pleno,2021-10-31,AL
+ccf3a171-56dc-4907-ba6c-34ab6712303a,Josué Correia,stellamachado@lima.br,Gerente de Contas,2023-02-14,AP
+db20a56e-dc81-4fe7-8eda-8bbb71710434,Beatriz Aragão,borgesrenan@jesus.net,Gerente de Contas,2024-05-28,AL
+fc3d3348-008d-4127-a104-61e32a25a888,Julia Viana,bda-paz@cassiano.net,Vendedor Sênior,2023-07-09,DF
+bc594585-9445-48c0-8ef8-c2d6f7fd5646,Ana Liz Souza,danilo09@montenegro.com,Vendedor Júnior,2021-06-24,PE
+118a9d29-2f92-4996-99f1-95d014822f53,Ana Lívia Rocha,isiscampos@pacheco.com,Vendedor Pleno,2024-07-24,RO
+50fd9d3f-85d5-4695-90b2-b633956b8c0c,Gustavo Rios,rhavi46@rios.br,Vendedor Pleno,2023-09-08,SP
+75523327-0262-4f73-9292-2f83ef8c485b,Beatriz Barbosa,nataliada-luz@ferreira.br,Gerente de Contas,2023-06-03,CE
+b41b3143-8b10-450c-9570-4f32702cdd20,Vinícius Albuquerque,gustavo-henrique24@caldeira.com,Gerente de Contas,2023-04-25,MA
+57c700aa-b7b5-4ea7-b5eb-d32d9ad620ab,João Montenegro,dda-cunha@porto.org,Vendedor Pleno,2021-05-15,AC
+a319dcb4-217d-45a0-8568-11cd5563f616,Enrico Sousa,tnovaes@novais.com,Vendedor Sênior,2021-12-12,AP
+e767dcea-b0e6-4969-a213-42b0f1eedba3,Yago Andrade,juan62@das.com,Vendedor Júnior,2024-01-15,DF
+1a50aec3-aabc-45fa-bfe1-2e47ae9bec36,Dr. Eduardo da Costa,luiz-gustavojesus@cavalcanti.br,Vendedor Sênior,2024-07-01,SE
+cf8d446a-bc2c-4b0d-9d33-4cc7ab7f089a,João Felipe Castro,garciabreno@camara.net,Vendedor Pleno,2024-11-29,MS
+df0f06cb-cb9b-4326-920e-ac174e20fd1a,Henry Gabriel Alves,isabellyfarias@azevedo.org,Vendedor Júnior,2023-12-25,RS
+fb2ca025-adf4-462d-a651-529e8268690b,Luísa Alves,da-luzluiz-henrique@andrade.com,Gerente de Contas,2024-09-10,MS
+6fb78271-504d-481f-8953-5b63ba81edd9,Sophia Camargo,moliveira@aparecida.br,Vendedor Pleno,2021-01-04,PE
+afd5dea5-89d7-4d6c-8e77-7f00ecf27e76,Dra. Fernanda Fonseca,qazevedo@pinto.br,Vendedor Sênior,2022-01-21,SC
+4f2d4796-81d2-47de-8ce1-eb90e6697833,Maria Luísa Duarte,ssampaio@correia.br,Vendedor Júnior,2022-06-23,RN
+8c459ce2-67f4-4ad5-8d0b-0d1a91b0e1d9,Kevin da Paz,lorenaviana@martins.br,Vendedor Sênior,2024-10-03,RO
+cb323e35-7922-4ac2-82dc-4c8e36b5229a,Srta. Antonella da Paz,francisco34@costa.com,Gerente de Contas,2023-01-29,PR
+12a4def0-c4bb-47a9-9988-68dd9c7c7377,Maria Vitória Pires,hadassamonteiro@da.com,Gerente de Contas,2021-01-16,SP
+1b494e15-e2ad-4909-8521-bf2ddc45d539,Hellena Cavalcanti,jaragao@campos.br,Vendedor Sênior,2025-07-07,PI
+c1581092-f335-4ba3-913a-7052986f9025,Sofia Lima,vcastro@machado.org,Vendedor Sênior,2023-02-06,TO
+c715b2b9-c40c-4d91-86fd-e062a33dc7af,Raquel Pires,yanmacedo@silva.net,Vendedor Pleno,2023-04-23,MT
+14a0bccb-8a47-4a87-a49d-681d51d87c64,Dom da Conceição,jsales@azevedo.br,Vendedor Sênior,2025-08-11,PB
+d5385b0e-34f3-493c-8ff0-a55c6a702e2f,Maria Julia Vargas,teixeiragabrielly@abreu.br,Vendedor Pleno,2023-07-15,SP
+f41402b1-e442-4ebb-9a7b-909563d62a39,Zoe Souza,mariahcamara@lopes.br,Vendedor Sênior,2021-03-30,MG
+cc530e36-addc-4e13-ab3b-4d37560c95ee,Eloah Martins,sophiealves@pastor.com,Vendedor Pleno,2021-09-16,RS
+7631de9d-dde9-4863-a2bd-33886db99102,Benicio da Luz,nduarte@duarte.br,Vendedor Pleno,2024-03-21,GO
+6bebac31-d4f8-4d72-b382-1cfdc083b73a,Bruno Melo,souzavalentina@ferreira.com,Vendedor Pleno,2021-05-04,SP
+33094d35-3f4d-4561-b319-c12507f194f9,Eduardo da Costa,maria-juliarios@nunes.br,Vendedor Júnior,2023-03-06,SP
+9b749245-9b1b-4895-aaf4-3ab75e6fea07,Dra. Bruna Vasconcelos,ana-liviacaldeira@das.br,Vendedor Sênior,2024-05-15,RR
+b0cc1b3b-9793-49b4-9374-814632c5bd89,Isabelly Caldeira,isaque90@nascimento.br,Vendedor Júnior,2024-02-24,AP
+033d2bce-575a-4d2c-a5c5-650c8186a576,Rebeca Caldeira,ofonseca@santos.com,Vendedor Júnior,2024-09-13,CE
